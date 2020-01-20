@@ -9,3 +9,5 @@ public class Main{
 	}
 }
 ```
+1. ファイルを
+1. git
